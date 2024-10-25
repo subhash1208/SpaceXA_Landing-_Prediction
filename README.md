@@ -19,7 +19,10 @@ To run this project, you will need the following:
 * Joblib
 * Jupyter Notebook
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6a2e5e1b872f722856d54883f69389cec6d00d35
 ## Usage
 
 To use this project, follow these steps:
