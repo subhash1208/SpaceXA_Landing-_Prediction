@@ -19,15 +19,6 @@ To run this project, you will need the following:
 * Joblib
 * Jupyter Notebook
 
-## Code Functionality
-
-The code consists of five Jupyter Notebooks, each focusing on a different aspect of the machine learning pipeline. The notebooks are:
-
-1. **[SpaceX\_Machine\_Learning\_Prediction\_Part\_1.ipynb](SpaceX_Machine_Learning_Prediction_Part_1.ipynb)**: This notebook focuses on collecting data from various sources, including the SpaceX API and Kaggle.
-2. **[SpaceX\_Machine\_Learning\_Prediction\_Part\_2.ipynb](SpaceX_Machine_Learning_Prediction_Part_2.ipynb)**: This notebook focuses on cleaning and preprocessing the data, including handling missing values, encoding categorical variables, and scaling numerical variables.
-3. **[SpaceX\_Machine\_Learning\_Prediction\_Part\_3.ipynb](SpaceX_Machine_Learning_Prediction_Part_3.ipynb)**: This notebook focuses on creating new features from the existing data, including creating dummy variables, polynomial features, and interaction features.
-4. **[SpaceX\_Machine\_Learning\_Prediction\_Part\_4.ipynb](SpaceX_Machine_Learning_Prediction_Part_4.ipynb)**: This notebook focuses on training a machine learning model on the preprocessed data, including splitting the data into training and testing sets, selecting a model, and evaluating the model's performance.
-5. **[SpaceX\_Machine\_Learning\_Prediction\_Part\_5.ipynb](SpaceX_Machine_Learning_Prediction_Part_5.ipynb)**: This notebook focuses on deploying the machine learning model, including saving the model to a file, loading the model from a file, and making predictions on new, unseen data.
 
 ## Usage
 
